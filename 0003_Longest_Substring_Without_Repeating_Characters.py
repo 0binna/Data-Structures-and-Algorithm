@@ -1,3 +1,9 @@
+"""
+LeetCode Question: https://leetcode.com/problems/longest-substring-without-repeating-characters/
+
+JavaScript Solution: https://replit.com/@ZhangMYihua/longest-substring-without-repeat-characters-optimal#index.js
+"""
+
 string = "agghj"
 
 def lengthOfLongestSubstring(s):
